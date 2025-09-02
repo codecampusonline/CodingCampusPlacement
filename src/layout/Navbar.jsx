@@ -43,6 +43,7 @@ const Navbar = () => {
             <a href="https://www.facebook.com/profile.php?id=61579945260744" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black">
               <FaFacebookF />
             </a>
+            <a href="https://wa.me/917019214982" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black"><FaWhatsapp /></a>
             <a href="https://www.youtube.com/@CodingCampusPlacement" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black"> <FaYoutube /></a>
             <a href="https://t.me/coding_campus_placement" target="_blank" rel="noopener noreferrer" className='text-white hover:text-black'><FaTelegram /></a>
             <a href="https://wa.me/917019214982" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black">

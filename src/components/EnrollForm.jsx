@@ -51,7 +51,7 @@ const EnrollForm = () => {
   }
   return (
     <>
-      <div className="h-70 bg-gradient-to-r from-blue-900 to-pink-500 flex flex-col items-center justify-center text-white text-center px-4">
+      <div className="min-h-[300px] bg-gradient-to-r from-blue-900 to-pink-500 flex flex-col items-center justify-center text-white text-center p-4">
         <h1 className="text-4xl font-bold m-4">Enroll Form</h1>
         <p> Your future starts with a single step. Whether you're looking to upgrade your skills, switch careers, or pursue your passion, the right training can change everything. At OnlineCampusPlacement, we believe in unlocking your potential through practical, hands-on learning. Join thousands of learners who have taken the leap and transformed their careers. Don’t wait for the perfect moment — create it. Enroll today and start building the future you deserve!</p>
       </div>
