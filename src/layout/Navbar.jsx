@@ -64,7 +64,7 @@ const Navbar = () => {
               {/* Logo and Desktop Links */}
               <div className="flex items-center space-x-8">
                 <img src={"/code1.png"} alt="" width={"60px"} height={"60px"}/>
-                <h1 className="text-2xl font-extrabold text-orange-600 drop-shadow-md tracking-wide italic -ml-8">CodingCampusPlacement</h1>
+                <h1 className="text-xl font-extrabold text-orange-600 drop-shadow-md tracking-wide italic -ml-8">CodingCampusPlacement</h1>
 
                 {/* Desktop Links */}
                 <div className="hidden md:flex space-x-8">
