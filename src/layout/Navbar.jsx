@@ -46,15 +46,15 @@ const Navbar = () => {
             <a href="https://wa.me/917019214982" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black"><FaWhatsapp /></a>
             <a href="https://www.youtube.com/@CodingCampusPlacement" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black"> <FaYoutube /></a>
             <a href="https://t.me/coding_campus_placement" target="_blank" rel="noopener noreferrer" className='text-white hover:text-black'><FaTelegram /></a>
-            <a href="https://wa.me/917019214982" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black">
+            {/* <a href="https://wa.me/917019214982" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black">
             <FaXTwitter />
-            </a>
+            </a> */}
             <a href="https://www.instagram.com/onlinecampusplacement/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black">
               <FaInstagram />
             </a>
-            <a href="https://www.linkedin.com/in/CodintgCampusPlacement/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black">
+            {/* <a href="https://www.linkedin.com/in/CodintgCampusPlacement/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-black">
               <FaLinkedinIn />
-            </a>
+            </a> */}
           </div>
         </div>
 
